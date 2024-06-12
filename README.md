@@ -10,7 +10,7 @@ A Lightning Datable will display the PS and which Objects and Assigned Record Ty
 
 ![What is Looks like](ReadPermissionSet.png)
 
-A Test class is included also. The MetadataMCR class only has parts and pieces to accomodate the Permission Set. The full version of that class is well over 13k lines of code. I bascially took what was needed for PS and butchered it up and renamed the files used with a prefix of MCR.
+A Test class is included also. The MetadataMCR class only has parts and pieces to accomodate the Permission Set. The full version of that class is well over 13k lines of code. I bascially took what was needed for PS and butchered it up and renamed the files used with a postfix of MCR.
 
 ## Some things...
 
