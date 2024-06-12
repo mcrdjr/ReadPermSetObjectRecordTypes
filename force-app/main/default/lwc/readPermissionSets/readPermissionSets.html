@@ -1,0 +1,32 @@
+<template>
+    <button class="slds-button slds-button_neutral slds-button_stretch" 
+    onclick={handleRetrievePermissions}><label></label>Read Permission Sets for Object Record Types</button>  
+
+    <!--Isloading:{isLoading}<br>-->
+    <lightning-spinner if:true={isLoading}></lightning-spinner>
+    <!--
+    <template if:true={showPermissions}>
+        Permissions results:<br>
+        {resultsData}<br>
+    </template>  
+    -->
+
+    <template if:true={showPermissionSets}>
+        <div class="slds-var-p-around_x-small">
+            Permission Sets Found: ({permissionSetCount})
+                <template lwc:if={PermissionSetRecords}>
+                    <lightning-datatable
+                    key-field="id"
+                    data={PermissionSetRecords}
+                    columns={permissionSetColumns}
+                    sorted-by={sortBy}
+                    sorted-direction={sortDirection}
+                    onsort={doSorting}
+                    max-row-selection="10"
+                    onrowselection={handlePermissionSetRowSelection}
+                    >
+                    </lightning-datatable>
+                </template>
+        </div>
+    </template>  
+</template>
