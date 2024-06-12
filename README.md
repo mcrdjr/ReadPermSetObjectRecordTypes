@@ -37,7 +37,7 @@ Github Repository for apex-mdapi
 
 ## Enjoy!
 
-## [Gal 2:20](https://kjvgalatians220.com/)
+## [Gal 2:20](https://kjvgalatians220.com/){:target="_blank"}
 
 
 
