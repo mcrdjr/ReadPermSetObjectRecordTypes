@@ -1,4 +1,4 @@
-<a href="https://githubsfdeploy.herokuapp.com?owner=mcrdjr&repo=ReadPermSetObjectRecordTypes?tab=readme-ov-file">
+<a href="https://githubsfdeploy.herokuapp.com?owner=mcrdjr&repo=ReadPermSetObjectRecordTypes&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
