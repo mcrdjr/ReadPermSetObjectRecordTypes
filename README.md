@@ -8,6 +8,7 @@ This reposioy was born out of need to read Permission Sets (PS) Assigned Record 
 
 A Lightning Datable will display the PS and which Objects and Assigned Record Types there are. No data is changed, you would still need to go to PS and uncheck Assigned Record Type.
 
+![What is Looks like](ReadPermissionSet.png)
 
 
 ## Read All About It
