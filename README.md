@@ -12,6 +12,8 @@ A Lightning Datable will display the PS and which Objects and Assigned Record Ty
 
 A Test class is included also. The MetadataMCR class only has parts and pieces to accomodate the Permission Set. The full version of that class is well over 13k lines of code. I bascially took what was needed for PS and butchered it up and renamed some of the files used with *MCR.
 
+Once it is deployed, you can add the LWC to any page.
+
 ## Some things...
 
 This project uses Metadata Service features
