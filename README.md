@@ -17,5 +17,5 @@ Read Permission Set Metadata -
 - [Read Permission Set Metadata](https://salesforce.stackexchange.com/questions/362049/pull-record-types-per-permission-set-through-metadata-api)
 
 Deploy to Sales Button 
-- [Deploy to Sales Button][https://andyinthecloud.com/2014/09/27/the-new-github-deploy-to-salesforce-tool-button/]
+- [Deploy to Sales Button](https://andyinthecloud.com/2014/09/27/the-new-github-deploy-to-salesforce-tool-button/)
 
