@@ -1,6 +1,6 @@
 <a href="https://githubsfdeploy.herokuapp.com">
   <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/main/deploy.png">
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
 
 # Read Object Record Type Assignments
