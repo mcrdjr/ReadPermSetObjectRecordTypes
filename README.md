@@ -14,6 +14,8 @@ A Test class is included also. The MetadataMCR class only has parts and pieces t
 
 Once it is deployed, you can add the LWC to any page.
 
+By the way, I'm sure I copied everything right, and you may also...
+
 ## Some things...
 
 This project uses Metadata Service features
