@@ -14,8 +14,8 @@ Other Links for features used
 - [Get Session Id](https://salesforce.stackexchange.com/questions/411712/not-able-to-call-metadata-api-service-from-lwc-controller-using-apex-class)
 
 Read Permission Set Metadata - 
-- [Read Permission SetMetadata](https://salesforce.stackexchange.com/questions/362049/pull-record-types-per-permission-set-through-metadata-api)
+- [Read Permission Set Metadata](https://salesforce.stackexchange.com/questions/362049/pull-record-types-per-permission-set-through-metadata-api)
 
 Deploy to Sales Button 
-- [Deploy to Sales Button ][https://andyinthecloud.com/2014/09/27/the-new-github-deploy-to-salesforce-tool-button/]
+- [Deploy to Sales Button][https://andyinthecloud.com/2014/09/27/the-new-github-deploy-to-salesforce-tool-button/]
 
