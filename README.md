@@ -37,7 +37,7 @@ Github Repository for apex-mdapi
 
 ## Enjoy!
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=mcrdjr&repo=ReadPermSetObjectRecordTypes" target="_blank">Gal 2:20
+<a href="https://kjvgalatians220.com/" target="_blank">Gal 2:20
 </a>
 
 ## [Gal 2:20](https://kjvgalatians220.com/)
