@@ -2,7 +2,7 @@
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
-
+ 
 # Read Object Record Type Assignments
 This repository was born out of need to read Permission Sets (PS) Record Type Assignments for various Objects. At this point (6/2024), SOQL can't do this 100%. You can however use the Metadata service to read thru the PS and find which Objects have Record Type Assignments. Having to look at each PS was tedious. Using this LWC (with Apex) you can select up to 10 PS (Salesforce Limitation) and find all the Objects and the Record Types that have been set.
 
