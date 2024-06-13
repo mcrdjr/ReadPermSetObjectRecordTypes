@@ -47,3 +47,4 @@ afs_scripts/devOps/rules/apex_ruleset.xml
 afs_scripts/devOps/xml/pmd_rules.xml
 SNIPPETS
 .pmdCache
+.pmdCache
