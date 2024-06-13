@@ -36,6 +36,7 @@ Github Repository for apex-mdapi
 ## As I have time I will add more comments on what all is going on. Some of the LWC and Apex have comments along the way. It's a complicated mess of stuff. Some of the Metadata can be hard to wrap your head around.
 
 ## Enjoy!
+- [Repo Link](https://github.com/mcrdjr/ReadPermSetObjectRecordTypes)
 
 ## [Gal 2:20](https://kjvgalatians220.com/)
 
