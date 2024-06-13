@@ -33,7 +33,7 @@ Deploy to Sales Button
 Github Repository for apex-mdapi
 - [apex-mdapi](https://github.com/certinia/apex-mdapi)
 
-## As I have time I will add more comments on what all is going on. Some of the LWC and Apex have comments along the way. It's a complicated mess of stuff. Some of the Metadata is hard to wrap my head around.
+## As I have time I will add more comments on what all is going on. Some of the LWC and Apex have comments along the way. It's a complicated mess of stuff. Some of the Metadata can be hard to wrap your head around.
 
 ## Enjoy!
 
