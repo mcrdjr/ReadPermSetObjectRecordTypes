@@ -31,6 +31,10 @@ public class MetadataMCRTest {
         new MetadataMCR.ReadPermissionSetResult();
         new MetadataMCR.readPermissionSetResponse_element();
         new MetadataMCR.PermissionSetCustomPermissions();
+        new MetadataMCR.DebuggingInfo_element();
+        new MetadataMCR.DebuggingHeader_element();
+        new MetadataMCR.AllOrNoneHeader_element();
+        new MetadataMCR.LogInfo();
         
         try {
             permsFound = MetadataMCR.readRecordTypesInPermissionSets(new List<String>{'MSSC','AC_HPA_Manager'});
