@@ -36,6 +36,7 @@ Github Repository for apex-mdapi
 - [apex-mdapi](https://github.com/certinia/apex-mdapi)
 
 Create your Own Salesforce Developer Org
+If you want to play around ith this, just create a Dev Org and use the Deploy button above to install it there. You would need to setup Record Types for some object and check them off for the Permission Set you wan to work with.
 - [Create your Own Salesforce Developer Org](https://developer.salesforce.com/signup)
 
 ## As I have time I will add more comments on what all is going on. Some of the LWC and Apex have comments along the way. It's a complicated mess of stuff. Some of the Metadata can be hard to wrap your head around.
