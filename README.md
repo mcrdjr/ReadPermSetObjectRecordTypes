@@ -30,7 +30,7 @@ Read Permission Set Metadata
 - [Read Permission Set Metadata](https://salesforce.stackexchange.com/questions/362049/pull-record-types-per-permission-set-through-metadata-api)
 
 Deploy to Salesforce Button 
-- [Deploy to Sales Button](https://andyinthecloud.com/2014/09/27/the-new-github-deploy-to-salesforce-tool-button/)
+- [Deploy to Salesforce Button](https://andyinthecloud.com/2014/09/27/the-new-github-deploy-to-salesforce-tool-button/)
 
 Github Repository for apex-mdapi
 - [apex-mdapi](https://github.com/certinia/apex-mdapi)
