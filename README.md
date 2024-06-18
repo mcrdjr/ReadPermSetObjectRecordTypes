@@ -3,10 +3,12 @@
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
  
-# Read Object Record Type Assignments
-This repository was born out of need to read Permission Sets (PS) Record Type Assignments for various Objects. At this point (6/2024), SOQL can't do this 100% from what I can find. You can however use the Metadata service to read thru the PS and find which Objects have Record Type Assignments. Having to look at each PS was tedious. Using this LWC (with Apex) you can select up to 10 PS (Salesforce Limitation) and find all the Objects and the Record Types that have been set.
+# Read Assigned Record Types for Objects in Specific Permission Sets
+This repository was born out of a need to read Permission Sets (PS) Record Type Assignments for various Objects. At this point (6/2024), SOQL can't do this 100% from what I can find. I found various examples of code that can do this and have links to them below.
 
-A Lightning Datable will display the PS and which Objects and Assigned Record Types there are. No data is changed, you would still need to go to PS and uncheck Assigned Record Type.
+You can use the Metadata service to read thru the PS and find which Objects have Assigned Record Types. Having to look at each PS was tedious. Using this LWC (with Apex) you can select up to 10 PS (Salesforce Limitation) and find all the Objects and the Record Types that have been set.
+
+A Lightning Datable will display PS and which Objects and Assigned Record Types there are. No data is changed, you would still need to go to PS and uncheck Assigned Record Type if you wan to remove them. The code just builds a string of Object/Record Types found and display it.
 
 ![What is Looks like](ReadPermissionSet.png)
 
