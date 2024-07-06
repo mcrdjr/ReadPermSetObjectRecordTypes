@@ -2,6 +2,12 @@
     <button class="slds-button slds-button_neutral slds-button_stretch" 
     onclick={handleRetrievePermissions}><label></label>Read Permission Sets for Object Record Types</button>  
 
+    <p>
+        <a class="slds-text-link" href={sourceURL} target="source"
+            >View Source on GitHub</a
+        >
+    </p>
+
     <!--Isloading:{isLoading}<br>-->
     <lightning-spinner if:true={isLoading}></lightning-spinner>
     <!--

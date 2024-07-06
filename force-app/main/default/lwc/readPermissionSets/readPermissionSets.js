@@ -1,4 +1,4 @@
-import { LightningElement , wire} from 'lwc';
+import { LightningElement , wire, api} from 'lwc';
 import readRecordTypesInPermissionSets from '@salesforce/apex/MetadataMCR.readRecordTypesInPermissionSets';
 import getPermSet from '@salesforce/apex/MetadataMCRPermClass.getPermSet';
 import { NavigationMixin } from 'lightning/navigation';
@@ -18,6 +18,12 @@ isLoading;
 maxPermissionSetsCount = 0;
 sortBy;
 sortDirection;
+
+baseURL = 'https://github.com/mcrdjr/ReadPermSetObjectRecordTypes';
+
+get sourceURL() {
+    return this.baseURL;
+}
 
 permissionSetColumns = [
     {label: 'Id', fieldName: 'Id', type: 'text'},
